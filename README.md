@@ -1,4 +1,4 @@
-![PaidlanceDev](/public/branding/paidlance-site-teal-2.jpg)
+![PaidlanceDev](/public/branding/paidlance-site-teal.jpg)
 
 # PaidlanceDev [paidlance.dev](https://www.paidlance.dev/)
 
